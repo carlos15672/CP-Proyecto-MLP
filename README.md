@@ -4,9 +4,9 @@ Proyecto integrador para la materia de Cómputo Paralelo (Grupo 6BM1, Semestre 2
 El objetivo es demostrar la aceleración del entrenamiento de un Perceptrón Multicapa (MLP) utilizando el dataset Fashion MNIST, transitando desde una ejecución secuencial hasta una versión distribuida (DDP).
 
 ## Integrantes del Equipo
-* Miembro 1 Carlos Arce Padilla
-* Miembro 2 Jose Alberto Montes Olguin
-* Miembro 3 Ruben
+* Miembro 1 Arce Padilla Carlos
+* Miembro 2 Montes Olguin Jose Alberto
+* Miembro 3 Salinas Padilla Rubén Iván
 
 ## Requisitos Técnicos y Dependencias
 Para garantizar la reproducibilidad de los experimentos, se requieren las siguientes versiones:
